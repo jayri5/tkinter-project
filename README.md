@@ -1,1 +1,1 @@
-basic tkinter projects
+Module code of a school management system using Python. 
